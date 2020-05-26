@@ -17,9 +17,10 @@ computer IP addres(it can be found by 'hostaname -I' in terminal)
 OR
 
 Local IP addres
+
 `roslaunch mavros px4.launch fcu_url:="udp://:14540@127.0.0.1:14557`
 
-## On another tab run the offbd_node
+## On another tab run offbd_node
 
 `rosrun mavR offb_node`
 
