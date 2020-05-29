@@ -22,5 +22,5 @@ Local IP addres
 
 ## On another tab run offbd_node
 
-`rosrun mavR offb_node`
+`rosrun multiple-set-point offb_node`
 
